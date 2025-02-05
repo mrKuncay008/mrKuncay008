@@ -76,22 +76,18 @@
             alt="react" width="40" height="40" /> </a>
 </p>
 
-```
-```
 ### 👨‍💻 All of my projects are available at
 
 https://maspren-porto.netlify.app/
 
--------
-```
-```
-<p align="center">
+
+<p align="left">
   <a href="https://github.com/mrKuncay008">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrKuncay008&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mrKuncay008">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrKuncay008&theme=radical" alt=" Frend's GitHub Contribution"/>
   </a>
