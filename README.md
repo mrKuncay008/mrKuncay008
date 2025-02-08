@@ -20,8 +20,8 @@
   </a>
 </p>
 
-<p align="rigth">
-    <img align="right" width="300" src="cat.gif" class="border-radius: 30px;" alt="Coding gif" />
+<p align="right">
+    <img width="300" src="cat.gif" class="border-radius: 30px;" alt="Coding gif" />
 </p>
 
 ### 👨‍💻 All of my projects are available at
