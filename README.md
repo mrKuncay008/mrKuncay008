@@ -13,13 +13,14 @@
     <img src="https://skillicons.dev/icons?i=html,css,php,javascript,typescript,java,c,flutter,python" />
   </a>
 </p>
-    <img align="right" width="300" src="cat.gif" class="border-radius: 30px;" alt="Coding gif" />
 ### 🤖 Technologies
 <p align="left">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,bootstrap,express,git,laravel,tailwind,mysql,postgres,linux" />
   </a>
 </p>
+
+<img align="right" width="300" src="cat.gif" class="border-radius: 30px;" alt="Coding gif" />
 
 ### 👨‍💻 All of my projects are available at
 
