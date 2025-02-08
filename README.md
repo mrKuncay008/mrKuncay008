@@ -13,6 +13,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,php,javascript,typescript,java,c,flutter,python" />
   </a>
 </p>
+
 ### 🤖 Technologies
 <p align="left">
     <a href="https://skillicons.dev">
