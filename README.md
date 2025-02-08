@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<p align="right">
+<p align="center">
     <img width="300" src="cat.gif" class="border-radius: 30px;" alt="Coding gif" />
 </p>
 
